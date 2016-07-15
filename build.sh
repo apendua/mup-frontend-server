@@ -1,1 +1,1 @@
-docker build -t meteorhacks:mup-ssl-server ./
+docker build -t apendua/mup-frontend-server:latest ./
